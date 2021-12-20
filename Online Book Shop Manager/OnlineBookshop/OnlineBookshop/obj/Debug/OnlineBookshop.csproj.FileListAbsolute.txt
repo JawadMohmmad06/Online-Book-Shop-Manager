@@ -1,0 +1,15 @@
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\bin\Debug\OnlineBookshop.exe.config
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\bin\Debug\OnlineBookshop.exe
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\bin\Debug\OnlineBookshop.pdb
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.csproj.AssemblyReference.cache
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form1.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Properties.Resources.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.csproj.GenerateResource.cache
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.csproj.CoreCompileInputs.cache
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.exe
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.pdb
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form2.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form3.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form4.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form5.resources
+C:\Users\jawad\source\repos\OnlineBookshop\OnlineBookshop\obj\Debug\OnlineBookshop.Form6.resources
